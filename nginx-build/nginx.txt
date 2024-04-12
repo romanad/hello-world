@@ -1,0 +1,23 @@
+
+
+
+
+apt-get install -y git
+
+
+https://github.com/nginx/nginx
+
+cd C:\Users\Thinker\Documents\Coding
+
+sudo yum update
+sudo yum groupinstall 'Development Tools'
+sudo yum install pcre pcre-devel zlib zlib-devel openssl-devel tar unzip git -y
+
+
+sudo apt update
+sudo apt install build-essential libpcre3 libpcre3-dev zlib1g zlib1g-dev libssl-dev tar unzip git -y
+
+
+
+
+How to create custom ngix image with ports 60 and 6443 and put it to the harbor registry?
